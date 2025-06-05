@@ -1,0 +1,54 @@
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: #f9f9f9;
+    color: #333;
+}
+
+.container {
+    max-width: 900px;
+    margin: 2em auto;
+    background: #fff;
+    padding: 2em;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h1, h2, h3 {
+    color: #17365D;
+    line-height: 1.2;
+}
+
+h1 {
+    font-size: 2em;
+    border-bottom: 3px solid #4F81BD;
+    padding-bottom: 0.3em;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin-top: 1.5em;
+}
+
+h3 {
+    font-size: 1.2em;
+    margin-top: 1.2em;
+}
+
+p {
+    margin: 0.8em 0;
+}
+
+ul {
+    margin: 0.5em 0 1em 1.2em;
+}
+
+ul li {
+    margin-bottom: 0.4em;
+}
+
+.section {
+    margin-bottom: 2em;
+}
